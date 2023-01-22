@@ -1,0 +1,10 @@
+name = 'NEMO'
+power_spectral_density = PowerSpectralDensity(asd_file='NEMO.txt')
+minimum_frequency = 40
+maximum_frequency = 1e4
+length = 2
+latitude = -31.3400
+longitude = 115.9100
+elevation = 0
+xarm_azimuth = 2
+yarm_azimuth = 125
